@@ -1,1 +1,18 @@
-//
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+/*
+	body
+ */
+body {
+    font-size: 14px;
+    font-weight: normal;
+
+    $navbar-color:#87c3ff;
+
+    nav.navbar.navbar-expand-lg {
+	    margin-bottom: 20px;
+	    background-color: $navbar-color !important;
+	}
+}
+
