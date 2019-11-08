@@ -11178,3 +11178,7 @@ section.user_info h1 {
   max-width: 100px;
 }
 
+.index-paginate nav ul li {
+  margin-left: 5px;
+}
+
